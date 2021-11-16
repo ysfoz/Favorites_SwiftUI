@@ -58,9 +58,9 @@
 				4E0D128C2743F1EE0001FA04 /* Favorites_SwiftUIApp.swift */,
 				4E0D128E2743F1EE0001FA04 /* ContentView.swift */,
 				4E0D129A274423230001FA04 /* FavoriteModal.swift */,
+				4E0D129C27442D4D0001FA04 /* DetailsView.swift */,
 				4E0D12902743F1F10001FA04 /* Assets.xcassets */,
 				4E0D12922743F1F10001FA04 /* Preview Content */,
-				4E0D129C27442D4D0001FA04 /* DetailsView.swift */,
 			);
 			path = Favorites_SwiftUI;
 			sourceTree = "<group>";
