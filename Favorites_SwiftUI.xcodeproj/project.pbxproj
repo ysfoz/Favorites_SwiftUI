@@ -11,6 +11,7 @@
 		4E0D128F2743F1EE0001FA04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0D128E2743F1EE0001FA04 /* ContentView.swift */; };
 		4E0D12912743F1F10001FA04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0D12902743F1F10001FA04 /* Assets.xcassets */; };
 		4E0D12942743F1F10001FA04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E0D12932743F1F10001FA04 /* Preview Assets.xcassets */; };
+		4E0D129B274423230001FA04 /* FavoriteModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0D129A274423230001FA04 /* FavoriteModal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4E0D128E2743F1EE0001FA04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4E0D12902743F1F10001FA04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E0D12932743F1F10001FA04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4E0D129A274423230001FA04 /* FavoriteModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4E0D128C2743F1EE0001FA04 /* Favorites_SwiftUIApp.swift */,
 				4E0D128E2743F1EE0001FA04 /* ContentView.swift */,
+				4E0D129A274423230001FA04 /* FavoriteModal.swift */,
 				4E0D12902743F1F10001FA04 /* Assets.xcassets */,
 				4E0D12922743F1F10001FA04 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E0D128F2743F1EE0001FA04 /* ContentView.swift in Sources */,
+				4E0D129B274423230001FA04 /* FavoriteModal.swift in Sources */,
 				4E0D128D2743F1EE0001FA04 /* Favorites_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
